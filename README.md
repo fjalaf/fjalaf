@@ -4,12 +4,12 @@
 
 . :computer: **Xamanen**
 
-:pencil: **Learning DevOps**
+. :pencil: **Learning DevOps**
 
-:eyeglasses: **Fan of Technology**
+. :eyeglasses: **Fan of Technology**
 
 ## Contact
 
-[Instagram](https://www.instagram.com/francisco.jalaf/)
+. [Instagram](https://www.instagram.com/francisco.jalaf/)
 
-[LinkdIn](www.linkedin.com/in/fjalaf)
+. [LinkdIn](www.linkedin.com/in/fjalaf)
