@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**fjalaf/fjalaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:computer: **Xamanen**
 
-Here are some ideas to get you started:
+:pencil: **Aprendiendo DevOps**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:eyeglasses: **Fan de la Tecnología**
+
+## Vías de contacto
+
+![Instagram](https://www.instagram.com/francisco.jalaf/ "Perfil de Instagram")
+
+![LinkdIn](www.linkedin.com/in/fjalaf "Perfil de LinkdIn")
