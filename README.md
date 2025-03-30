@@ -1,12 +1,14 @@
 # Hi there 👋
 
-:computer: **Xamanen**
+. :raising_hand: I'm Francisco Jalaf from Argentina.
 
-:pencil: **Aprendiendo DevOps**
+. :computer: **Xamanen**
 
-:eyeglasses: **Fan de la Tecnología**
+:pencil: **Learning DevOps**
 
-## Vías de contacto
+:eyeglasses: **Fan of Technology**
+
+## Contact
 
 [Instagram](https://www.instagram.com/francisco.jalaf/)
 
