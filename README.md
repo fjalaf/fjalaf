@@ -8,6 +8,6 @@
 
 ## Vías de contacto
 
-![Instagram](https://www.instagram.com/francisco.jalaf/ "Perfil de Instagram")
+![Instagram](https://www.instagram.com/francisco.jalaf/)
 
-![LinkdIn](www.linkedin.com/in/fjalaf "Perfil de LinkdIn")
+![LinkdIn](www.linkedin.com/in/fjalaf)
