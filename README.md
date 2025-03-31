@@ -13,3 +13,9 @@
 . [Instagram](https://www.instagram.com/francisco.jalaf/)
 
 . [LinkdIn](www.linkedin.com/in/fjalaf)
+
+
+### :zap: Actividad reciente
+<! -START_SECTION: activity-->
+
+<! --END_SECTION: activity-->
