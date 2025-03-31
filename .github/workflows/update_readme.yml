@@ -1,8 +1,8 @@
-name: Update README2
+name: Update README3
 
 on:
   schedule:
-    - cron: '* */12 * * *' # Cada 12 horas
+    - cron: "* */12 * * *" # Cada 12 horas
   workflow_dispatch:
 
 jobs:
