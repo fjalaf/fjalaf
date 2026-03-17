@@ -2,9 +2,7 @@
 
 . :raising_hand: I'm Francisco Jalaf from Argentina.
 
-. :computer: **Xamanen**
-
-. :pencil: **Learning DevOps**
+. :computer: **ChatBot Maker bue**
 
 . :eyeglasses: **Fan of Technology**
 
